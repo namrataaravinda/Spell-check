@@ -22,6 +22,10 @@ PhraseCraft is a Tkinter-based application designed to enhance your vocabulary a
 
 - Anisha: Banner designs and artwork.
 
+## Contribution
+The `spellchecker` library has deprecated dependencies like `indexed`, which don't run on python3. Change up the code, so it runs on a different nlp/word processing library (eg. Textblob, LanguageTool etc.) facilitating all the functions already made.
+Feel free to add to the functionality, with supporting code.
+
 ## License
 
 This project is licensed under the GNU GPL v3 License. See the [LICENSE](LICENSE) file for more details.
