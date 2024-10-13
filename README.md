@@ -29,4 +29,3 @@ Feel free to add to the functionality, with supporting code.
 ## License
 
 This project is licensed under the GNU GPL v3 License. See the [LICENSE](LICENSE) file for more details.
-```
